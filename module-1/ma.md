@@ -45,4 +45,4 @@ The website should have the following pages:
 
 ## Assets
 
-[Click here](images/assets.zip) to download the assets for the project.
+[Click here](files.noroff.no/lc/feu/courses/cms/assets.zip) to download the assets for the project.
