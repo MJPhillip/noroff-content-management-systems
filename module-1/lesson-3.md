@@ -28,19 +28,22 @@ Media items like images can be uploaded and are stored on the web host, while da
 
 From v5.0 and later, WordPress have rolled out an editor called Gutenberg with a unique way of creating blocks of content for the page. Using their block editor you can add individual blocks of content like Paragraph, Image, Gallery, Quote, List etc. into the page or post and edit it.
 
-<img src="images/cms_lesson1-3_1.jpg" alt="Block Editor" style="max-width:1140px">
+<img src="/images/cms_lesson1-3_1.jpg" alt="Block Editor" style="max-width:1140px">
 
 The WordPress admin panel is pretty intuitive, but if you want more information about how to set up the admin panel and use all the elements correctly, you can take a look at this video on WordPress 5 Essential Training https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?u=43268076
 
 ## Plugins
+
 If you are looking for additional functionality for your site beyond the standard WordPress installation, a good place to look is for a plugin.
 
 A plugin is a piece of software written in PHP which you can download and install to your WordPress site. Using plugins can speed up development of a project and mean you can get quite a lot of functionality without having to know how it was created.
 
 Most plugins are offered free with limited functionality, and then you pay extra for additional functionality.
 
-<img src="images/cms_lesson1-3_2.jpg" alt="Plugins" style="max-width:1140px">
+<img src="/images/cms_lesson1-3_2.jpg" alt="Plugins" style="max-width:1140px">
 
 ---
-- [Go to lesson 4](4)
+
+-   [Go to lesson 4](4)
+
 ---
