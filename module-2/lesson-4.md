@@ -13,12 +13,12 @@ To access the API root for your WordPress website, you can simply add `/wp-json`
 
 You can try this on your local version of your WordPress site for Flower Power and you are likely to get something that looks like this.
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-4_1.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-4_1.jpg" alt="" style="max-width:500px">
 
 ## Routes
 ‘routes’ are an address we can use to access information from our site. These routes get added after the URL to view wp-json. For example, because our Flower Power website uses WooCommerce, we can add `/wc/store/products` to the end of our URL and we get a list of products on our website.
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-4_2.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-4_2.jpg" alt="" style="max-width:500px">
 
 We can then use these routes to get fetch data from the API and build websites with it.
 You can find a list of the available routes for your website on your API’s root at /wp-json. Two common routes you might work with are `/wp/v2/posts` to get a list of the last 10 posts, and `/wp/v2/pages` to get an array of pages.
