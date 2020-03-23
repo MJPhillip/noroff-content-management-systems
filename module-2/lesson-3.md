@@ -38,7 +38,7 @@ A good theme will have a range of pluggable functions which it is possible to pl
 
 The way to spot a pluggable function is an ‘if’ statement which tests whether the function has already been defined in the child theme. If it has already been defined then the parent theme function doesn’t run that function.
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_3.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_3.jpg" alt="" style="max-width:600px">
 
 Let’s say we want to update the heading to include our tagline underneath our logo. The first thing we should do is find out what element is containing our logo, and to do that we can inspect the element. It’s a div with class ‘site-branding’.
 
@@ -52,15 +52,15 @@ Once you’ve found the PHP file which controls what gets displayed in that sect
 
 Instead we want the changes stored in our child theme. Now because the function is a pluggable function, we can add our changes into our functions.php file.
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_6.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_6.jpg" alt="" style="max-width:600px">
 
 Copy everything between line 186 and line 198, leaving the ‘if’ statement behind. Go to your functions.php file in your child theme and type <?php at the very top of the document with no space. Then press enter/return twice and add ?>. In between these lines paste the code you copied from storefront-template-functions.php. Your file should look like this:
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_7.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_7.jpg" alt="" style="max-width:600px">
 
 Now we can just write HTML into the div like so:
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_8.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_8.jpg" alt="" style="max-width:600px">
 
 This is okay, but what if the client wants to change their tagline at a later date, ideally they want to be able to go into Appearance > Customize > Site Info and update the tagline there. To do that we can look in the ‘storefront-template-functions.php’ page and see how the description could be added. The answer is on line 218.
 
@@ -86,13 +86,13 @@ Search for that div in your Wordpress files and you’ll find it’s in content-
 
 Here is where the product details get added to `<div class="summary entry-summary">`.
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_13.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_13.jpg" alt="" style="max-width:600px">
 
 Because WooCommerce’s template files are already in your child theme, you don’t need to copy them across. If we were editing a parent theme’s templates, then we would need to copy it across to our own child theme (and create the same folder structure for the file).
 
 I don’t want to edit what gets output in the PHP, I just want to add an image after the div has closed. To do that, I simply add the image into the page (note, I’ve already added the image to my media folder).
 
-<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_14.jpg" alt="" style="max-width:1140px">
+<img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-3_14.jpg" alt="" style="max-width:600px">
 
 Now on all of the product pages, I will see an image has been added underneath the product info.
 
