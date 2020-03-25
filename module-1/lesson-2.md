@@ -41,7 +41,7 @@ It’s important to understand the relationship WordPress has with its database.
 
 Enter a database name called ‘flower-power’ and click create.
 
-###Step 4 – Run the WordPress install
+### Step 4 – Run the WordPress install
 
 Go to localhost/flower-power which will begin the installation wizard. First you’ll be asked for a language for the install, next an overview of what is needed where you can click “Let’s go”.
 
