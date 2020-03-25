@@ -17,7 +17,8 @@ Once downloaded and installed you should be able to open an application that loo
 <img src="/images/cms_lesson1-2_1.jpg" alt="Xampp Control Panel" style="max-width:600px">
 
 > Note for Mac Users:
-The Xampp user interface will look different. You can click 'Start', and then click 'Services' where you should see Apache and MySQL running and click 'Start all'. You should then have an IP address which you can copy and paste into your browser address bar.
+You might want to choose [MAMP](https://www.mamp.info/en/windows/) from the beginning as it is well suited for Mac users.
+If you choose to use Xampp on Mac, the user interface will look different. You can click 'Start', and then click 'Services' where you should see Apache and MySQL running and click 'Start all'. You should then have an IP address which you can copy and paste into your browser address bar. To find where to place your WordPress files you can try go to Applications > MAMP > htdocs, or on XAMPP go to Volumes and Mount.
 
 Click ‘Start’ for both Apache and MySQL and you can test that your server is running by going to http://localhost/ in your browser which should load up a page saying ‘Welcome to Xampp.
 
