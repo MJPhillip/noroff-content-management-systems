@@ -17,7 +17,7 @@ Your products page should include a list of all the: product names, images and p
 3. Create a new product on your WordPress admin page, and make sure it's pulling through to your products page.
 4. Deliver a link to the products page.
 
-## Level 2 Process
+## Level 2 Process (reminder: level 2 is optional)
 1. Add a 'sort by' option for users to sort the products by name (A-Z) or by price (low to high).
 2. Create a product specific page which shows the product details for whichever product the user clicks on from the products list page. This page should show the name, image, price, stock availability, and a description.
 
