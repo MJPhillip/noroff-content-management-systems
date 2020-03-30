@@ -15,7 +15,8 @@ You can try this on your local version of your WordPress site for Flower Power a
 
 <img src="https://raw.githubusercontent.com/MJPhillip/noroff-content-management-systems/master/module-2/images/cms_lesson2-4_1.jpg" alt="" style="max-width:500px">
 
-`Please note: the image is from Firefox. If using another browser the JSON might be formatted differently`
+> Please note: the image is from Firefox. If using another browser the JSON might be formatted differently
+
 
 ## Routes
 ‘routes’ are an address we can use to access information from our site. These routes get added after the URL to view wp-json. For example, because our Flower Power website uses WooCommerce, we can add `/wc/store/products` to the end of our URL and we get a list of products on our website.
