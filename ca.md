@@ -13,7 +13,7 @@ Your products page should be a standalone site (written using HTML, CSS and Java
 ## Level 1 Process
 
 1. Sketch the products page you would like to make. The layout of the page is up to you, but you should use the colours and fonts from the Module Assignment 1.
-2. Create the page by fetching data from the WordPress REST API, and displaying it on the page.
+2. Create the page by fetching data from the WordPress REST API on your web host, and displaying it on the page.
 3. Create a new product on your WordPress admin page, and make sure it's pulling through to your products page.
 4. Upload the site to your web host.
 4. Deliver a link to the products page.
