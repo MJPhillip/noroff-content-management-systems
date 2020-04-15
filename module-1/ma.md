@@ -37,7 +37,7 @@ The website should have the following pages:
 3.	Create a Home, About and Contact pages
 4.	Customize the website and add the logo, site icon, tagline, and setting colours.
 5.	Add the WooCommerce plugin, go through the setup wizard skipping where appropriate and adding dummy data. WooCommerce will then create a series of pages automatically for you including ‘Shop’, ‘Checkout’ and other pages needed for the payment process.
-6.	Add the products to the site (see assets)
+6.	Add the products to the site. You can import the product list using the provided .csv file (see assets)
 7.	Install the Contact 7 plugin and add a contact form to the contact page using a shortcode.
 8.	The main menu should just have Home, About, Shop and Contact
 9.	Take your local version of the site and upload to your web host. You can use this tutorial as a guide https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/ (if you don’t have PHP activated on your web host, please activate it for the CMS course and then you can switch it off afterwards).
