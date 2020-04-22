@@ -2,7 +2,7 @@
 
 ## Goal
 
-Create a separate website that uses an API call to your Wordpress API to populate a products page.
+Create a separate website that uses an API call to your Wordpress API on your web host to populate a products page.
 
 ## Brief
 
