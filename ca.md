@@ -26,4 +26,4 @@ Your products page should be a standalone site (written using HTML, CSS and Java
 
 A link to the products page.
 
-> Note: You must make a call to the API on your web host, not your localhost. Only you have access to the localhost.
+> Note: You must make a call to the API on your web host, not your localhost.
