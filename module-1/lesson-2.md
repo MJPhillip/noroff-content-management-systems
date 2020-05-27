@@ -10,7 +10,7 @@ Download an application to run a local server on your computer.
 
 There are a few to choose from, but Xampp, Wamp or Mamp are some of the most commonly used. Xampp can run on Windows, Mac or Linux. Wamp runs on Windows and Mamp runs on Mac.
 
-In our example we’re going to be running Xampp which you can download from [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html).
+In our example we’re going to be running Xampp which you can download from [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html.
 
 Once downloaded and installed you should be able to open an application that looks like this:
 
