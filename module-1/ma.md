@@ -15,8 +15,8 @@ The website should have the following pages:
 *	Heading saying ‘Welcome to Flower Power’ (note the home page should still be called ‘Home’ in the menu)
 *	A featured image (see assets)
 *	Intro paragraph (see assets)
-*	“View our bouquets” call-to-action button
-*	List of best selling products
+*	“View our bouquets” call-to-action button which should link to the Shop page
+*	List of best selling products (add this using the 'Best Selling Products' block created by WooCommerce)
 *	A quote from a past customer (see assets)
 *	A section called Weddings with a gallery of images
 
@@ -35,7 +35,7 @@ The website should have the following pages:
 1.	Create a local installation of WordPress.
 2.	Add the ‘Storefront’ theme and activate it.
 3.	Create a Home, About and Contact pages
-4.	Customize the website and add the logo, site icon, tagline, and setting colours.
+4.	Customize the website and add the logo, site icon, tagline, and set the colours.
 5.	Add the WooCommerce plugin, go through the setup wizard skipping where appropriate and adding dummy data. WooCommerce will then create a series of pages automatically for you including ‘Shop’, ‘Checkout’ and other pages needed for the payment process.
 6.	Add the products to the site. You can import the product list using the provided .csv file (see assets)
 7.	Install the Contact 7 plugin and add a contact form to the contact page using a shortcode.
