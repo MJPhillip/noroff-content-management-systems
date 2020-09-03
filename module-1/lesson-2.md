@@ -2,8 +2,6 @@
 
 WordPress uses PHP, a server-side language, to render pages; therefore we need to run WordPress on a server. When developing, it’s best to install WordPress on your local machine so that you can make changes in case something breaks. When you’re finished developing, you can upload your WordPress site to your web host.
 
-## Getting an Interview
-
 ### Step 1 – Local server
 
 Download an application to run a local server on your computer.
