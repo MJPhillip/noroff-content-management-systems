@@ -40,7 +40,7 @@ The website should have the following pages:
 6.	Add the products to the site. You can import the product list using the provided .csv file (see assets)
 7.	Install the Contact 7 plugin and add a contact form to the contact page using a shortcode.
 8.	The main menu should just have Home, About, Shop and Contact
-9.	Take your local version of the site and upload to your web host. You can use this tutorial as a guide https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/ (if you don’t have PHP activated on your web host, please activate it for the CMS course and then you can switch it off afterwards).
+9.	Take your local version of the site and upload to your web host. You can use this tutorial as a guide https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/ (if you don’t have PHP activated on your web host, please activate it for the CMS course and then you can switch it off afterwards). Note that you should have a folder on your web host for this project, and the instruction to clear the root folder in step 3 should be ignored.
 10.	Submit a link to the website on your web host.
 
 ## Assets

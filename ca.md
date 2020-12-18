@@ -19,7 +19,7 @@ Your products page should be a standalone site (written using HTML, CSS and Java
 4. Deliver a link to the products page.
 
 ## Level 2 Process (reminder: level 2 is optional)
-1. Add a 'sort by' option for users to sort the products by name (A-Z) or by price (low to high).
+1. Add a 'sort by' option for users to sort the products by name (A-Z) or by price (low to high). This Scrimba [https://scrimba.com/c/c8Mm7MsE](https://scrimba.com/c/c8Mm7MsE) shows how to use the sort() method.
 2. Create a product specific page which shows the product details for whichever product the user clicks on from the products list page. This page should show the name, image, price, stock availability, and a description.
 
 ## Delivery
